@@ -2162,11 +2162,28 @@ function Footer() {
   return /* @__PURE__ */ jsxDEV("footer", { className: "bg-ink text-slate-300", children: /* @__PURE__ */ jsxDEV("div", { className: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-14", children: [
     /* @__PURE__ */ jsxDEV("div", { className: "grid sm:grid-cols-2 lg:grid-cols-4 gap-10", children: [
       /* @__PURE__ */ jsxDEV("div", { children: [
-        /* @__PURE__ */ jsxDEV("img", { src: "ikonka.png", alt: "JŁ BUD", className: "h-10 w-auto brightness-0 invert" }, void 0, false, {
-          fileName: "<stdin>",
-          lineNumber: 994,
-          columnNumber: 13
-        }, this)
+       /* @__PURE__ */ jsxDEV("div", { className: "flex items-center gap-2.5", children: [
+          /* @__PURE__ */ jsxDEV("span", { className: "grid place-items-center w-10 h-10 rounded-xl bg-gradient-to-br from-accent to-accent-deep text-white", children: /* @__PURE__ */ jsxDEV(HardHat, { className: "w-5 h-5" }, void 0, false, {
+            fileName: "<stdin>",
+            lineNumber: 996,
+            columnNumber: 17
+          }, this) }, void 0, false, {
+            fileName: "<stdin>",
+            lineNumber: 995,
+            columnNumber: 15
+          }, this),
+          /* @__PURE__ */ jsxDEV("span", { className: "text-lg font-extrabold text-white", children: [
+            "J\u0141",
+            /* @__PURE__ */ jsxDEV("span", { className: "text-accent", children: "\xA0BUD" }, void 0, false, {
+              fileName: "<stdin>",
+              lineNumber: 998,
+              columnNumber: 69
+            }, this)
+          ] }, void 0, true, {
+            fileName: "<stdin>",
+            lineNumber: 998,
+            columnNumber: 15
+          }, this)
         ] }, void 0, true, {
           fileName: "<stdin>",
           lineNumber: 994,
