@@ -2325,7 +2325,6 @@ function Footer() {
         "\xA9 ",
         (/* @__PURE__ */ new Date()).getFullYear(),
         " J\u0141 BUD Sp. z o.o. Wszelkie prawa zastrze\u017Cone.",
-        "Zdjęcia użyte na stronie nie muszą zgadzać się z rzeczywistością."
       ] }, void 0, true, {
         fileName: "<stdin>",
         lineNumber: 1041,
